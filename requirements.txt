@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pydobot
+pyserial
+langchain-groq
+langchain-core
+pyyaml

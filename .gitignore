@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Runtime state and captures
+dobot_state.json
+*.jpg
+*.png
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
